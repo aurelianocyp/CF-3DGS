@@ -97,3 +97,5 @@ python run_cf3dgs.py -s ./data/$CUSTOM_DATA/ \ # change to your data path
 ## note
 
 cuda out of memory：https://github.com/NVlabs/CF-3DGS/issues/2 https://github.com/NVlabs/CF-3DGS/issues/20
+
+使用960*540分辨率的jpg图像。不然时间爆炸慢
