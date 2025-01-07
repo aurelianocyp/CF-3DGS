@@ -92,6 +92,7 @@ We release some of the novel view synthesis results ([gdrive](https://drive.goog
 python run_cf3dgs.py -s ./data/$CUSTOM_DATA/ \ # change to your data path
                      --mode train \
                      --data_type custom
+```
 
 ## note
 
