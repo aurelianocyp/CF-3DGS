@@ -101,3 +101,7 @@ cuda out of memory：https://github.com/NVlabs/CF-3DGS/issues/2 https://github.c
 使用960*540分辨率的jpg图像。不然时间爆炸慢
 
 注意workspace/CF-3DGS/trainer/trainer.py中决定图片是png格式还是jpg格式
+
+目前没法可视化gaussian
+
+相机内参需要colmap或者使用原始的设置好的
